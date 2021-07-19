@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [Netflix Series Uploader](https://t.me/Netfix_TV_Series_Complete)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [Netflix Series Request](https://t.me/Netfilx_TV_Series_Requset)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Source Code:** [Press Me](https://github.com/xKazuNx/Rename_Bot)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -59,4 +59,4 @@ __--Payment Methods:--__
  
 GooglePay / Paytm / PhonPay / paypal / Net Banking
  
-**For Donate:** message me @MaxxRiderz"""
+**For Donate:** message me @Ka_s_un"""
