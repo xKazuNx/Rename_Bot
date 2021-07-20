@@ -53,7 +53,7 @@ I am a telegram renamer with permanent thumbnail.
  
 Donate us to keep our services continously alive
 You can send any amount 
-of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
+of 1$, 5$, 10$, 20$, 50$, 100$
  
 __--Payment Methods:--__
  
