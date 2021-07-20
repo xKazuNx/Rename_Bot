@@ -101,6 +101,7 @@ async def set_mode(c, m):
     if upload_mode:
         await update_mode(m.from_user.id, False)
         text = f"From Now all files will be **Uploaded as Video** {VIDEO_CAMERA}"
+    await m.reply_text(text, quote=True)
     else:
         await update_mode(m.from_user.id, True)
         text = f"From Now all files will be **Uploaded as Files** {FILE_FOLDER}"
